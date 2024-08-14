@@ -1,0 +1,11 @@
+<?php
+
+    class Config {
+        const LDAP_DN = 'cn=admin,ou=administrator,o=contoso';
+        const LDAP_PASSWORD = 'xxx';
+        const LDAP_URL = 'server.contoso.com';
+
+        const URL_APP = 'https://...';
+    }
+
+?>
